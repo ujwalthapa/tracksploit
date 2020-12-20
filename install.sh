@@ -1,8 +1,8 @@
 #!/bin/bash
 sleep 1s
 clear
-echo -e "\e[1;32m -+-+-+-+-+-+-+-+-+ Subscribe to my channel -+-+-+-+-+-+-+-+"
-echo -e "-+-+-+-+-+ https://youtube.com/c/TechwithDharanish -+-+-+-+-+-+\e[0m"
+echo -e "\e[1;32m -+-+-+-+-+-+-+-+-+ Subscribe to my channel script by ujwal -+-+-+-+-+-+-+-+"
+echo -e "-+-+-+-+-+ https://www.youtube.com/channel/UCIumKR5qBHeW_mygad4NFtg -+-+-+-+-+-+\e[0m"
 echo -e "\e[1;32m Installing requirements\e[0m"
 sleep 1s
 pkg install python
